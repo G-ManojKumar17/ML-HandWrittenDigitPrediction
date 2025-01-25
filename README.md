@@ -1,9 +1,4 @@
-Here’s your description edited in the same style as the **Rock vs Mine** example:
-
----
-
 ## **Handwritten Digit Prediction | Machine Learning**  
-### **Handwritten Digit Prediction**  
 
 In this project, we developed a **Machine Learning model** to predict handwritten digits based on image data.  
 
@@ -17,7 +12,3 @@ We used the **scikit-learn (sklearn)** library to load the **Digits dataset** us
 ✅ **Python & Scikit-learn Implementation** – Utilized popular libraries for machine learning tasks.  
 
 This project demonstrates how machine learning can be applied to recognize and predict handwritten digits.
-
----
-
-Let me know if you need any changes!
